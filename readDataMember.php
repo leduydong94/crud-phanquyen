@@ -31,7 +31,7 @@
  								<span class="icon-bar"></span>
  								<span class="icon-bar"></span>
  							</button>
- 							<a class="navbar-brand" href="readData.php">User Information</a>
+ 							<a class="navbar-brand" href="readDataMember.php">User Information</a>
  						</div>
  				
  						<!-- Collect the nav links, forms, and other content for toggling -->
